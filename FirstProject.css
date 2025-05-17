@@ -137,3 +137,59 @@ cursor: pointer;
     height: 120px;
     border-radius: 20px 20px 0px 0px;
 }
+
+@media(max-width:600px){
+    #imor{
+        width: 100%;
+        height: 200px;
+    }
+    body{
+        margin: 0;
+        height: 100vh;
+        padding: 0;
+    }
+    #as{
+        position: relative;
+        margin-bottom: 170px;
+    }
+
+    #as button{
+        display:block;
+        position: relative;
+        top: 200px;
+    margin-top: 7px;
+    margin-left: -69px;
+    margin-right: 10px;
+    padding:10px ;
+    width: 100px;
+    border-radius: 0px 30px 30px 0px;
+    text-align: end;
+    transition: 1s;
+    font-weight: 300;
+   font-size: medium;
+   box-shadow: 1px 1px 3px gray;
+   cursor:pointer;
+    }
+.dd {
+display: block;
+position: absolute;
+width: 75%;
+justify-content: center;
+align-items: center;
+margin-bottom:700px;
+}
+#di1{
+    margin-top: -200px;
+}
+#di2{
+    margin-top: 260px;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 16px;
+    width: 420px;
+}
+
+}
