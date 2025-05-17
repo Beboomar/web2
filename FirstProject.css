@@ -151,7 +151,7 @@ cursor: pointer;
     }
     #as{
         position: relative;
-       margin-top: 420px;
+       margin-top: 450px;
         margin-bottom: 180px;
         width: 10%;
         
@@ -184,10 +184,10 @@ margin-bottom:700px;
 }
 #di1{
     margin-top: -200px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 #di2{
-    margin-top: -21px;
+    margin-top: 50px;
     position: relative;
    
     
@@ -218,7 +218,7 @@ p{
     #as{
         position: relative;
        
-       margin-top: 250px;
+       margin-top: 280px;
         margin-bottom: 170px;
         width: 10%;
         
