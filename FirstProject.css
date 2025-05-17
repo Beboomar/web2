@@ -138,7 +138,7 @@ cursor: pointer;
     border-radius: 20px 20px 0px 0px;
 }
 
-@media(max-width:763px) {
+@media(max-width:600px) {
     #imor{
         width: 100%;
         height: 200px;
@@ -151,7 +151,7 @@ cursor: pointer;
     }
     #as{
         position: relative;
-       margin-top: 450px;
+       margin-top: 4900px;
         margin-bottom: 180px;
         width: 10%;
         
@@ -187,10 +187,9 @@ margin-bottom:700px;
     margin-bottom: 40px;
 }
 #di2{
-    margin-top: 50px;
+    margin-top: 150px;
     position: relative;
    
-    
 }
 h1{
     font-size: 30px;
